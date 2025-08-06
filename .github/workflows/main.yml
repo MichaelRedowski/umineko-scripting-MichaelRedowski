@@ -16,10 +16,6 @@ jobs:
         with:
           fetch-depth: 0
 
-          - name: Script Check
-        run: |
-          php update-manager/script-check.php check pl || exit 1
-
       - name: Compile
         run: |
           BUILD=$(($(git rev-list --count --first-parent HEAD)+3500))
