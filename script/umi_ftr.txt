@@ -33120,7 +33120,7 @@ return
 	if $Free3 == "cht" mov $Free3,"Chinese Trad." mov %game_language,4
 	if $Free3 == "it" mov $Free3,"Italiano" mov %game_language,5
         if localisation == "tr" mov %game_language,6 : mov $Free3,"Witch Love"
-        if $Free3 == "pl" mov $Free3,"Polski" mov %game_language,7
+        if localisation == "pl" mov %game_language,7 : mov $Free3,"Polski"
 	lsp 273,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}" + $Free3 + "}",1280,%y
 
 	lsp 269,":a/2,0,3;graphics\menu_en\config\config_left.png",1210,%y
