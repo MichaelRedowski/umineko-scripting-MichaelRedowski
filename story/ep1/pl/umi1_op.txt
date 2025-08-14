@@ -1,13 +1,13 @@
 `"............Znowu...`
 `oddałeś się alkoholowi, nieprawdaż?"`
-`Starszy lekrz westchnął odkładając stetoskop.`
-`Two elderly men could be seen in the dimly lit study, which was filled with dust and a sickly sweet stench.`
-`In the corner of this room, which was much larger than what most people would call a study,`
-` there was an expensive‐looking bed, a man undergoing a medical examination, and the physician conducting it.`
-`{n}There was also what appeared to be a servant watching over the whole scene.`
-`"The bottle is my friend.`
-` It is no less of a friend than you, and it has stood by my side even longer than you have."`
-`The man who had bared his chest for the stethoscope spoke unapologetically as he straightened out his clothes.`
+`Stary lekarz westchnął odkładając stetoskop.`
+`W słabym oświetlonym gabinecie, który pokryty był słodkawym odorem jak i kurzem, można było dostrzec dwóch starszych mężczyzn.`
+`W kącie tegoż pokoju, który był stanowczo większy niż większość ludzi nazwałaby to gabinetem,`
+` znajdowało się drogo wyglądające łóżko, mężczyzna pod badaniem lekarskim oraz lekarz je przeprowadzający.`
+`{n}Również co się znajdowało to służący obserwujący tą całą scenę.`
+`"Butelka to moja przyjaciółka.`
+` jest ona nie gorszą przyjaciółką co ty, a dotrzymywała mi towarzystwa nawet dłużej."`
+`Mężczyzna który podniósł jego klatkę piersiową aby umożliwić badanie stetoskopem, bez skruchy przemówił poprawiając ubranie.`
 `"............Kinzo‐{c:86EF9C:san}.`
 ` ...Your body only appears to be well thanks to the effects of the medicine.`
 ` However, if you continue to drink such strong spirits, the treatment will become meaningless.`
@@ -124,11 +124,11 @@
 ` You're standing there invisible, listening to every word I say, and even now you're mocking me from somewhere in this room, aren't you?!"`
 `"Please, appear before me one more time and smile!!`
 ` Feel free to scold me, even snatch away my life by your own hands if you wish!!`
-` I don't want to die alone like this!!`
-` I cannot let myself die until I've seen your smile just one more time!!"`
-`"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
-` I offer up this life of mine, I offer it up to you!!`
-` I'm begging you, {f:5:Beatriceeeeee}!!!"`
+` Nie chcę umrzeć sam w taki sposób!!`
+` Nie mogę pozwolić sobie sam umrzeć, dopóki nie zobaczę twojego uśmiechu jeszcze raz!!"`
+`"Aach, {f:5:Beatrice}, {f:5:Beatrice}!!`
+` Ofiaruję ci moje życie, ofiaruję ci je!!`
+` Błagam cię, {f:5:Beatriceeeeee}!!!"`
 `"Whoa...`
 ` Things sure move with the times...`
 ` I can't believe we'll be able to make the trip in just twenty minutes..."`
